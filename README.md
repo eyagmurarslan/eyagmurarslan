@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yağmur! 
 
-<!--
-**eyagmurarslan/eyagmurarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Game Design graduate and Game Developer interested in Unity, C#, and creating interactive experiences.
 
-Here are some ideas to get you started:
+### 🎮 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Mist Train** — [View on Steam](https://store.steampowered.com/app/4802830/The_Mist_Train/)
+- **Insa** — [View on Google Play](https://play.google.com/store/apps/details?id=com.ndmsoftware.insa)
+- [Explore more games on itch.io →](https://yagmurarslan.itch.io/)
+
+### 🛠️ Tools & Technologies
+
+**Game Development** — Unity, C#, Twine, PuzzleScript
+
+**Creative Tools** — Blender, Illustrator, Photoshop
+
+**Development Workflow** — Git, GitHub, Fork
