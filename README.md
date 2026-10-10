@@ -2,7 +2,7 @@
 
 Digital Game Design graduate and Game Developer interested in Unity, C#, and creating interactive experiences.
 
-### 🎮 Projects
+### 🎮 Projects & Experiments
 
 - **The Mist Train** — [View on Steam](https://store.steampowered.com/app/4802830/The_Mist_Train/)
 - **Insa** — [View on Google Play](https://play.google.com/store/apps/details?id=com.ndmsoftware.insa)
