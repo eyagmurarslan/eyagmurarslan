@@ -6,7 +6,7 @@ Digital Game Design graduate and Game Developer interested in Unity, C#, and cre
 
 - **The Mist Train** — [View on Steam](https://store.steampowered.com/app/4802830/The_Mist_Train/)
 - **Insa** — [View on Google Play](https://play.google.com/store/apps/details?id=com.ndmsoftware.insa)
-- [Explore more games on itch.io →](https://yagmurarslan.itch.io/)
+- [Explore more games on itch.io](https://yagmurarslan.itch.io/)
 
 ### 🛠️ Tools & Technologies
 
